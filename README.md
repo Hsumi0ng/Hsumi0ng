@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hsumi0ng from TW.
+- 👋 Hi, I’m @Hsumi0ng from Taiwan.
 - 👀 I’m interested in Digital IC design and Computer Architecture.
 - 🌱 I am currently a graduate student at Texas A&M University.
 - I have a relatively complete experience on an In-memory-computing chip developing project. 
